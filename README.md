@@ -1,4 +1,5 @@
 # Civilization-exe
-Plik Civilization.exe pozwala na odapalenie gry
+"Civilization.exe" - the program for launching the game
 
-Porszuanie kamerą za pomocą strzałek na klawiaturze
+1. Controlling the camera using the arrow keys on the keyboard
+2. The first startup takes longer
